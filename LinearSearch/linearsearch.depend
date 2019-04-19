@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1539148857 source:c:\users\tej k\desktop\dsa lab tej\linearsearch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
